@@ -1,0 +1,24 @@
+[
+  {
+    "id": "disruption-1",
+    "area": "Demo Construction Area",
+    "type": "road_construction",
+    "description": "Prototype road construction for demonstration",
+    "latitude": 17.390,
+    "longitude": 78.490,
+    "severity": 0.7,
+    "status": "active",
+    "source": "Demo/Prototype Data"
+  },
+  {
+    "id": "disruption-2",
+    "area": "Demo Waterlogging Area",
+    "type": "waterlogging",
+    "description": "Prototype waterlogging condition for demonstration",
+    "latitude": 17.380,
+    "longitude": 78.480,
+    "severity": 0.9,
+    "status": "active",
+    "source": "Demo/Prototype Data"
+  }
+]

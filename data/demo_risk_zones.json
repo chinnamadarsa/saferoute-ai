@@ -1,0 +1,26 @@
+[
+  {
+    "id": "zone-1",
+    "name": "Demo Risk Zone A",
+    "latitude": 17.385,
+    "longitude": 78.486,
+    "risk_level": 0.9,
+    "description": "Prototype high-risk zone for demonstration"
+  },
+  {
+    "id": "zone-2",
+    "name": "Demo Risk Zone B",
+    "latitude": 17.395,
+    "longitude": 78.496,
+    "risk_level": 0.6,
+    "description": "Prototype medium-risk zone for demonstration"
+  },
+  {
+    "id": "zone-3",
+    "name": "Demo Risk Zone C",
+    "latitude": 17.375,
+    "longitude": 78.476,
+    "risk_level": 0.3,
+    "description": "Prototype low-risk zone for demonstration"
+  }
+]
